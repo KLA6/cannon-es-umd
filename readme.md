@@ -65,6 +65,7 @@ npx webpack
 ## Note
 
 I don't know why, but using this induces higher CPU consuming than using the original Cannon.js.
+
 CDN URL of Original Cannon.js
 ```
 https://cdnjs.cloudflare.com/ajax/libs/cannon.js/0.6.2/cannon.min.js
