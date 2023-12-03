@@ -1,6 +1,6 @@
 # cannon-es-umd
 
-This is a fork of [cannon-es](https://github.com/pmndrs/cannon-es) to make a simple UMD verseion of it for jsDelivr CDN.
+This is a fork of [cannon-es](https://github.com/pmndrs/cannon-es) to make a simple UMD version of it for jsDelivr CDN.
 
 ## How To Use
 ```
@@ -12,7 +12,6 @@ https://cdn.jsdelivr.net/gh/KLA6/cannon-es-umd@v0.20.0/cannon-es.umd.js
 Instal Webpack.
 ```
 npm install --save-dev webpack webpack-cli
-
 ```
 
 Make `webpack.config.js`.
