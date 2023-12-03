@@ -3,8 +3,20 @@
 This is a fork of [cannon-es](https://github.com/pmndrs/cannon-es) to make a simple UMD version of it for jsDelivr CDN.
 
 ## How To Use
+
+CDN URL
 ```
 https://cdn.jsdelivr.net/gh/KLA6/cannon-es-umd@v0.20.0/cannon-es.umd.js
+```
+
+HTML
+```
+<script src="https://cdn.jsdelivr.net/gh/KLA6/cannon-es-umd@v0.20.0/cannon-es.umd.js"></script>
+```
+
+Web Worker
+```
+importScripts( 'https://cdn.jsdelivr.net/gh/KLA6/cannon-es-umd@v0.20.0/cannon-es.umd.js' ) // Web Worker
 ```
 
 ## How It Was Made
