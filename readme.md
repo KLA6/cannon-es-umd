@@ -2,6 +2,11 @@
 
 This is a fork of [cannon-es](https://github.com/pmndrs/cannon-es) to make a simple UMD verseion of it for jsDelivr CDN.
 
+## How To Use
+```
+https://cdn.jsdelivr.net/gh/KLA6/cannon-es-umd@v0.20.0/cannon-es.umd.js
+```
+
 ## How It Was Made
 
 Instal Webpack.
@@ -29,7 +34,7 @@ module.exports = {
 };
 ```
 
-Install Babel
+Install Babel.
 ```
 npm install --save-dev babel-loader @babel/core @babel/preset-env
 ```
@@ -45,4 +50,3 @@ Build Webpack.
 ```
 npx webpack
 ```
-
