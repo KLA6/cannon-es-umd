@@ -16,7 +16,7 @@ HTML
 
 Web Worker
 ```
-importScripts( 'https://cdn.jsdelivr.net/gh/KLA6/cannon-es-umd@v0.20.0/cannon-es.umd.js' ) // Web Worker
+importScripts( 'https://cdn.jsdelivr.net/gh/KLA6/cannon-es-umd@v0.20.0/cannon-es.umd.js' )
 ```
 
 ## How It Was Made
